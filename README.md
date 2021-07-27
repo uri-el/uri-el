@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @uri-el
+- 👀 I’m interested in py
+- 🌱 I’m currently learning py
+- 💞️ I’m looking to collaborate on py
+- 📫 How to reach me IG : sateen_krt
