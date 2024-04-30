@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @uri-el
-- 👀 I’m interested in py
-- 🌱 I’m currently learning py
-- 💞️ I’m looking to collaborate on py
-- 📫 How to reach me IG : sateen_krt
+- 👋 Hi, I’m @sateen
+- 👀 I’m interested in any developer languages.
+- 🌱 I’m currently learning py,js,java.
+- 💞️ I’m looking to collaborate on any projects.
+- 📫 How to reach me Email : sateen.d.777@gmail.com, LinkedIn : Satin Mukhiya, IG : sateen_krt 
