@@ -3,10 +3,10 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=700&color=B388FF&center=true&vCenter=true&width=700&lines=%E9%A0%98%E5%9F%9F%E5%B1%95%E9%96%8B+%E2%80%94+Domain+Expansion;I'm+Sateen%2C+Sorcerer+of+Tokyo+Jujutsu+High;Throughout+Heaven+and+Earth%2C+I+alone+debug;Nah%2C+I'd+compile.;Stand+proud.+Your+code+is+strong." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=700&color=B388FF&center=true&vCenter=true&width=700&lines=Domain+Expansion;I'm+Sateen%2C+Sorcerer+of+Tokyo+Jujutsu+High;Throughout+Heaven+and+Earth%2C+I+alone+debug;Nah%2C+I'd+compile.;Stand+proud.+Your+code+is+strong." />
 
 <img src="https://img.shields.io/badge/Grade-Special_Grade_(in_training)-5b2a86?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/School-Tokyo_Jujutsu_High_(BSc_CS)-0d0221?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/School-Ulster University-0d0221?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Cursed_Energy-Overflowing-e63946?style=for-the-badge"/>
 
 <img src="https://komarev.com/ghpvc/?username=uri-el&label=Sorcerers%20who%20entered%20my%20domain&color=5b2a86&style=for-the-badge"/>
