@@ -15,7 +15,7 @@
 
 ---
 
-## 👁️ Sorcerer Registration File
+## Sorcerer Registration File
 
 ```yaml
 # ── JUJUTSU HIGH: CLASSIFIED ──────────────────────────
@@ -37,7 +37,7 @@ weakness: "Merge conflicts at 3 a.m."
 
 ---
 
-## 🟣 Cursed Techniques
+## Cursed Techniques
 
 <div align="center">
 
