@@ -21,7 +21,7 @@
 # ── JUJUTSU HIGH: CLASSIFIED ──────────────────────────
 sorcerer:        Sateen (uri-el)
 grade:           Grade 4  ➜  Special Grade (pending)
-affiliation:     Ulster University · Dept. of Computing System
+affiliation:     Tokyo Jujutsu High · Dept. of Computer Science
 innate_technique: "Limitless Fullstack"
 domain_expansion: "Unlimited Void of Code"
 black_flash_record: "Bug fixed first try (x1, unconfirmed)"
@@ -30,6 +30,7 @@ binding_vows:
   - "Never deploy on a Friday"
   - "Read the error message before panicking"
 current_mission:
+  - Completing BSc Computer Science
   - Exorcising bugs in fullstack projects
   - Open to joint missions (collaborations)
 weakness: "Merge conflicts at 3 a.m."
@@ -52,7 +53,7 @@ weakness: "Merge conflicts at 3 a.m."
 
 ---
 
-## 📜 Exorcism Records
+## Exorcism Records
 
 | Cursed Spirit | Grade | Technique | Status |
 |---|:-:|:-:|:-:|
@@ -79,11 +80,11 @@ weakness: "Merge conflicts at 3 a.m."
 
 ---
 
-## Malevolent Shrine: Sukuna Devours My Contributions
+## Hollow Purple: Gojo Erases My Contributions
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/uri-el/uri-el/output/sukuna-snake.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/uri-el/uri-el/output/hollow-purple.svg" width="100%"/>
 
 </div>
 
@@ -94,7 +95,7 @@ weakness: "Merge conflicts at 3 a.m."
 <div align="center">
 
 <a href="mailto:sateen.d.777@gmail.com"><img src="https://img.shields.io/badge/Email-Summon_Me-e63946?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Join_My_Mission-5b2a86?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/satin-mukhiya-207336292/"><img src="https://img.shields.io/badge/LinkedIn-Join_My_Mission-5b2a86?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/sateen_krt"><img src="https://img.shields.io/badge/Instagram-@sateen__krt-0d0221?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 <br/><br/>
