@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=Domain+Expansion%3A+Infinite+Code;Hi%2C+I'm+Sateen+%F0%9F%91%81%EF%B8%8F;BSc+Computer+Science+Student;Throughout+Heaven+and+Earth%2C+I+alone+debug" />
 
-### 🟣 Jujutsu Sorcerer in Training | Tokyo Jujutsu High: Dept. of Computer Science
+### 🟣 Jujutsu Sorcerer in Training
 
 </div>
 
@@ -21,7 +21,7 @@ cursed_techniques:
 domain_expansion: "Fullstack Void"
 binding_vow: "Commit something every week"
 currently:
-  - Studying for my BSc in Computer Science
+  - Completed my BSc in Computer Science with First Class
   - Building fullstack projects
   - Open to collaborating on any project
 ```
