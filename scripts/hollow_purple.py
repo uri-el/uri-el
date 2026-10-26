@@ -115,10 +115,10 @@ svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewB
   text {{ font-family:'Segoe UI',Helvetica,Arial,sans-serif; }}
 </style>
 <rect width="{W}" height="{H}" rx="12" fill="#0d0221"/>
-<text x="{W/2}" y="38" fill="#b388ff" font-size="20" font-weight="700" text-anchor="middle" class="t1">術式順転「蒼」 Cursed Technique Lapse: Blue</text>
-<text x="{W/2}" y="38" fill="#ff6b6b" font-size="20" font-weight="700" text-anchor="middle" class="t2">術式反転「赫」 Reversal: Red</text>
+<text x="{W/2}" y="38" fill="#b388ff" font-size="20" font-weight="700" text-anchor="middle" class="t1">Cursed Technique Lapse: Blue</text>
+<text x="{W/2}" y="38" fill="#ff6b6b" font-size="20" font-weight="700" text-anchor="middle" class="t2">Reversal: Red</text>
 <text x="{W/2}" y="38" fill="#ffffff" font-size="20" font-weight="700" text-anchor="middle" class="t3">Combine them...</text>
-<text x="{W/2}" y="38" fill="#e0c3ff" font-size="24" font-weight="800" text-anchor="middle" class="t4" filter="url(#glow)">虚式「茈」 HOLLOW PURPLE</text>
+<text x="{W/2}" y="38" fill="#e0c3ff" font-size="24" font-weight="800" text-anchor="middle" class="t4" filter="url(#glow)">HOLLOW PURPLE</text>
 {"".join(rects)}
 <g class="hp"><rect x="-260" y="-26" width="260" height="52" rx="26" fill="url(#trail)"/><circle r="42" fill="url(#purple)" filter="url(#glow)"/></g>
 <g class="blue"><circle r="26" fill="url(#blue)" filter="url(#glow)"/></g>
