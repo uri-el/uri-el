@@ -21,7 +21,7 @@
 # ── JUJUTSU HIGH: CLASSIFIED ──────────────────────────
 sorcerer:        Sateen (uri-el)
 grade:           Grade 4  ➜  Special Grade (pending)
-affiliation:     Tokyo Jujutsu High · Dept. of Computer Science
+affiliation:     Ulster University · Dept. of Computing System
 innate_technique: "Limitless Fullstack"
 domain_expansion: "Unlimited Void of Code"
 black_flash_record: "Bug fixed first try (x1, unconfirmed)"
@@ -30,7 +30,6 @@ binding_vows:
   - "Never deploy on a Friday"
   - "Read the error message before panicking"
 current_mission:
-  - Completing BSc Computer Science
   - Exorcising bugs in fullstack projects
   - Open to joint missions (collaborations)
 weakness: "Merge conflicts at 3 a.m."
@@ -65,7 +64,7 @@ weakness: "Merge conflicts at 3 a.m."
 
 ---
 
-## 🩸 Cursed Energy Readings
+## Cursed Energy Readings
 
 <div align="center">
 
@@ -80,7 +79,7 @@ weakness: "Merge conflicts at 3 a.m."
 
 ---
 
-## 🤞 Malevolent Shrine: Sukuna Devours My Contributions
+## Malevolent Shrine: Sukuna Devours My Contributions
 
 <div align="center">
 
@@ -90,7 +89,7 @@ weakness: "Merge conflicts at 3 a.m."
 
 ---
 
-## 📞 Summoning Ritual
+## Summoning Ritual
 
 <div align="center">
 
